@@ -15,7 +15,8 @@ This website serves as a daily planner for users with a busy schedule to organiz
 ## Built With
 * HTML
 * CSS
-* JavaScript
+* Vanilla JavaScript
+* MomentJS
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/104241247/182057980-96d2e9da-942b-4117-86fd-1b8db2125443.png)
